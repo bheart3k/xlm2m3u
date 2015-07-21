@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Canales>
+<Version VersionOrden="170" VersionCanales="40" paquetes="UTX4X|UTX6C" demarcacion="19" />
+<Canal NumeroCanal="91" ID="10" Nombre="Disney Junior" Genero="Policíacas" Logo="MAY_1/imSer/10.jpg" ServiceNameOriginal="10" ServiceType="1" ip="239.0.0.10" puerto="8208" />
+<Canal NumeroCanal="92" ID="1019" Nombre="Canal Panda" Genero="Programas" Logo="MAY_1/imSer/1019.jpg" ServiceNameOriginal="1019" ServiceType="1" ip="239.0.0.117" puerto="8208" />
+<Canal NumeroCanal="95" ID="11" Nombre="Disney XD" Genero="Policíacas" Logo="MAY_1/imSer/11.jpg" ServiceNameOriginal="11" ServiceType="1" ip="239.0.0.11" puerto="8208" />
+<Canal NumeroCanal="116" ID="119" Nombre="Euronews" Genero="Policíacas" Logo="MAY_1/imSer/119.jpg" ServiceNameOriginal="119" ServiceType="1" ip="239.0.0.28" puerto="8208" />
+<Canal NumeroCanal="50" ID="12" Nombre="Futbol R." Genero="Fútbol" Logo="MAY_1/imSer/12.jpg" ServiceNameOriginal="12" ServiceType="1" ip="239.0.0.97" puerto="8208" />
+<Canal NumeroCanal="123" ID="120" Nombre="Bloomberg" Genero="Policíacas" Logo="MAY_1/imSer/120.jpg" ServiceNameOriginal="120" ServiceType="1" ip="239.0.0.29" puerto="8208" />
+<Canal NumeroCanal="40" ID="1221" Nombre="Paramount C." Genero="Cine clásico" Logo="MAY_1/imSer/1221.jpg" ServiceNameOriginal="1221" ServiceType="1" ip="239.0.0.90" puerto="8208" />
+<Canal NumeroCanal="13" ID="1607" Nombre="FOX HD" Genero="Policíacas" Logo="MAY_1/imSer/1607.jpg" ServiceNameOriginal="737" ServiceType="25" ip="239.0.9.134" puerto="8208" />
+<Canal NumeroCanal="14" ID="1608" Nombre="AXN HD" Genero="Policíacas" Logo="MAY_1/imSer/1608.jpg" ServiceNameOriginal="14" ServiceType="25" ip="239.0.9.131" puerto="8208" />
+<Canal NumeroCanal="15" ID="1609" Nombre="TNT HD" Genero="Programas" Logo="MAY_1/imSer/1609.jpg" ServiceNameOriginal="457" ServiceType="25" ip="239.0.5.87" puerto="8208" />
+<Canal NumeroCanal="18" ID="1610" Nombre="COSMO HD" Genero="Policíacas" Logo="MAY_1/imSer/1610.jpg" ServiceNameOriginal="21" ServiceType="25" ip="239.0.5.71" puerto="8208" />
+<Canal NumeroCanal="21" ID="1611" Nombre="AXN W. HD" Genero="Policíacas" Logo="MAY_1/imSer/1611.jpg" ServiceNameOriginal="751" ServiceType="25" ip="239.0.5.79" puerto="8208" />
+<Canal NumeroCanal="38" ID="1612" Nombre="Hollywood HD" Genero="Policíacas" Logo="MAY_1/imSer/1612.jpg" ServiceNameOriginal="15" ServiceType="25" ip="239.0.5.76" puerto="8208" />
+<Canal NumeroCanal="19" ID="1613" Nombre="AMC HD" Genero="Programas" Logo="MAY_1/imSer/1613.jpg" ServiceNameOriginal="939" ServiceType="25" ip="239.0.9.132" puerto="8208" />
+<Canal NumeroCanal="39" ID="1615" Nombre="Sundance HD" Genero="Programas" Logo="MAY_1/imSer/1615.jpg" ServiceNameOriginal="1039" ServiceType="25" ip="239.0.5.72" puerto="8208" />
+<Canal NumeroCanal="96" ID="1616" Nombre="Disney HD" Genero="Policíacas" Logo="MAY_1/imSer/1616.jpg" ServiceNameOriginal="2" ServiceType="25" ip="239.0.0.173" puerto="8208" />
+<Canal NumeroCanal="76" ID="1617" Nombre="Viajar HD" Genero="Policíacas" Logo="MAY_1/imSer/1617.jpg" ServiceNameOriginal="18" ServiceType="25" ip="239.0.5.73" puerto="8208" />
+<Canal NumeroCanal="74" ID="1618" Nombre="ODISEA HD" Genero="Policíacas" Logo="MAY_1/imSer/1618.jpg" ServiceNameOriginal="20" ServiceType="25" ip="239.0.5.82" puerto="8208" />
+<Canal NumeroCanal="71" ID="1619" Nombre="NG Wild HD" Genero="Programas" Logo="MAY_1/imSer/1619.jpg" ServiceNameOriginal="1563" ServiceType="25" ip="239.0.9.136" puerto="8208" />
+<Canal NumeroCanal="60" ID="1623" Nombre="EurosportHD" Genero="Policíacas" Logo="MAY_1/imSer/1623.jpg" ServiceNameOriginal="118" ServiceType="25" ip="239.0.9.135" puerto="8208" />
+<Canal NumeroCanal="70" ID="1643" Nombre="NAT GEO HD" Genero="Policíacas" Logo="MAY_1/imSer/1643.jpg" ServiceNameOriginal="740" ServiceType="25" ip="239.0.5.78" puerto="8208" />
+<Canal NumeroCanal="72" ID="17" Nombre="Historia" Genero="Policíacas" Logo="MAY_1/imSer/17.jpg" ServiceNameOriginal="17" ServiceType="1" ip="239.0.0.19" puerto="8208" />
+<Canal NumeroCanal="22" ID="1703" Nombre="SyFyHD" Genero="Policíacas" Logo="MAY_1/imSer/1703.jpg" ServiceNameOriginal="777" ServiceType="25" ip="239.0.5.75" puerto="8208" />
+<Canal NumeroCanal="17" ID="1705" Nombre="Calle 13HD" Genero="Policíacas" Logo="MAY_1/imSer/1705.jpg" ServiceNameOriginal="13" ServiceType="25" ip="239.0.5.74" puerto="8208" />
+<Canal NumeroCanal="129" ID="1805" Nombre="CNC World" Genero="Programas" Logo="MAY_1/imSer/1805.jpg" ServiceNameOriginal="1805" ServiceType="1" ip="239.0.0.221" puerto="8208" />
+<Canal NumeroCanal="128" ID="1807" Nombre="I 24 News" Genero="Programas" Logo="MAY_1/imSer/1807.jpg" ServiceNameOriginal="1807" ServiceType="1" ip="239.0.0.220" puerto="8208" />
+<Canal NumeroCanal="4" ID="1825" Nombre="Cuatro HD" Genero="Toros" Logo="MAY_1/imSer/1825.jpg" ServiceNameOriginal="5" ServiceType="25" ip="239.0.0.177" puerto="8208" />
+<Canal NumeroCanal="5" ID="1826" Nombre="Tele 5 HD" Genero="Ocio y cultura" Logo="MAY_1/imSer/1826.jpg" ServiceNameOriginal="6" ServiceType="25" ip="239.0.0.176" puerto="8208" />
+<Canal NumeroCanal="113" ID="197" Nombre="BBC World" Genero="Policíacas" Logo="MAY_1/imSer/197.jpg" ServiceNameOriginal="197" ServiceType="1" ip="239.0.0.30" puerto="8208" />
+<Canal NumeroCanal="122" ID="198" Nombre="TV5 Monde" Genero="Policíacas" Logo="MAY_1/imSer/198.jpg" ServiceNameOriginal="198" ServiceType="1" ip="239.0.0.31" puerto="8208" />
+<Canal NumeroCanal="80" ID="22" Nombre="Cocina" Genero="Policíacas" Logo="MAY_1/imSer/22.jpg" ServiceNameOriginal="22" ServiceType="1" ip="239.0.0.27" puerto="8208" />
+<Canal NumeroCanal="20" ID="2203" Nombre="FOX life HD" Genero="Programas" Logo="MAY_1/imSer/2203.jpg" ServiceNameOriginal="960" ServiceType="25" ip="239.0.5.86" puerto="8208" />
+<Canal NumeroCanal="37" ID="2204" Nombre="TCM HD" Genero="Programas" Logo="MAY_1/imSer/2204.jpg" ServiceNameOriginal="738" ServiceType="25" ip="239.0.5.89" puerto="8208" />
+<Canal NumeroCanal="73" ID="2205" Nombre="DSC HD" Genero="Policíacas" Logo="MAY_1/imSer/2205.jpg" ServiceNameOriginal="19" ServiceType="25" ip="239.0.5.77" puerto="8208" />
+<Canal NumeroCanal="16" ID="2224" Nombre="Comedy Central HD" Genero="Policíacas" Logo="MAY_1/imSer/2224.jpg" ServiceNameOriginal="577" ServiceType="25" ip="239.0.0.174" puerto="8208" />
+<Canal NumeroCanal="154" ID="2269" Nombre="ETB Sat." Genero="Programas" Logo="MAY_1/imSer/2269.jpg" ServiceNameOriginal="2269" ServiceType="1" ip="239.0.0.60" puerto="8208" />
+<Canal NumeroCanal="153" ID="2271" Nombre="TV3CAT" Genero="Programas" Logo="MAY_1/imSer/2271.jpg" ServiceNameOriginal="2271" ServiceType="1" ip="239.0.3.36" puerto="8208" />
+<Canal NumeroCanal="151" ID="2273" Nombre="Galicia TV Europa" Genero="Programas" Logo="MAY_1/imSer/2273.jpg" ServiceNameOriginal="2273" ServiceType="1" ip="239.0.3.37" puerto="8208" />
+<Canal NumeroCanal="150" ID="2275" Nombre="Canal Sur Andalucía" Genero="Programas" Logo="MAY_1/imSer/2275.jpg" ServiceNameOriginal="2275" ServiceType="1" ip="239.0.0.1" puerto="8208" />
+<Canal NumeroCanal="10" ID="2383" Nombre="SERIES" Genero="Series +9" Logo="MAY_1/imSer/2383.jpg" ServiceNameOriginal="1040" ServiceType="25" ip="239.0.0.184" puerto="8208" />
+<Canal NumeroCanal="133" ID="2463" Nombre="Canal Orbe 21" Genero="Programas" Logo="MAY_1/imSer/2463.jpg" ServiceNameOriginal="2463" ServiceType="1" ip="239.0.0.45" puerto="8208" />
+<Canal NumeroCanal="3" ID="2524" Nombre="Antena 3 HD" Genero="Ocio y cultura" Logo="MAY_1/imSer/2524.jpg" ServiceNameOriginal="4" ServiceType="25" ip="239.0.0.186" puerto="8208" />
+<Canal NumeroCanal="6" ID="2526" Nombre="laSexta HD" Genero="Ocio y cultura" Logo="MAY_1/imSer/2526.jpg" ServiceNameOriginal="717" ServiceType="25" ip="239.0.0.187" puerto="8208" />
+<Canal NumeroCanal="93" ID="2532" Nombre="Nick Jr" Genero="Series niños 4-8" Logo="MAY_1/imSer/2532.jpg" ServiceNameOriginal="2532" ServiceType="1" ip="239.0.0.115" puerto="8208" />
+<Canal NumeroCanal="24" ID="2533" Nombre="MTV España" Genero="Programas" Logo="MAY_1/imSer/2533.jpg" ServiceNameOriginal="2533" ServiceType="1" ip="239.0.0.211" puerto="8208" />
+<Canal NumeroCanal="1" ID="2543" Nombre="La 1 HD" Genero="Ocio y cultura" Logo="MAY_1/imSer/2543.jpg" ServiceNameOriginal="1" ServiceType="25" ip="239.0.0.185" puerto="8208" />
+<Canal NumeroCanal="63" ID="2544" Nombre="Teledeporte HD" Genero="Policíacas" Logo="MAY_1/imSer/2544.jpg" ServiceNameOriginal="744" ServiceType="25" ip="239.0.0.188" puerto="8208" />
+<Canal NumeroCanal="45" ID="2607" Nombre="DEPORTES" Genero="Programas" Logo="MAY_1/imSer/2607.jpg" ServiceNameOriginal="2603" ServiceType="25" ip="239.0.0.180" puerto="8208" />
+<Canal NumeroCanal="29" ID="2608" Nombre="CINE" Genero="Programas" Logo="MAY_1/imSer/2608.jpg" ServiceNameOriginal="2604" ServiceType="25" ip="239.0.0.178" puerto="8208" />
+<Canal NumeroCanal="61" ID="2720" Nombre="Eurosport 2 HD" Genero="Policíacas" Logo="MAY_1/imSer/2720.jpg" ServiceNameOriginal="338" ServiceType="25" ip="239.0.5.105" puerto="8208" />
+<Canal NumeroCanal="23" ID="2745" Nombre="Non Stop People HD" Genero="Entretenimiento" Logo="MAY_1/imSer/2745.jpg" ServiceNameOriginal="2724" ServiceType="25" ip="239.0.5.170" puerto="8208" />
+<Canal NumeroCanal="7" ID="2844" Nombre="CANAL+ HD" Genero="Cine" Logo="MAY_1/imSer/2844.jpg" ServiceNameOriginal="2803" ServiceType="25" ip="239.0.5.187" puerto="8208" />
+<Canal NumeroCanal="85" ID="2863" Nombre="MEGA" Genero="Entretenimiento" Logo="MAY_1/imSer/2863.jpg" ServiceNameOriginal="2863" ServiceType="1" ip="239.0.3.31" puerto="8208" />
+<Canal NumeroCanal="2" ID="3" Nombre="La 2" Genero="Ocio y cultura" Logo="MAY_1/imSer/3.jpg" ServiceNameOriginal="3" ServiceType="1" ip="239.0.0.2" puerto="8208" />
+<Canal NumeroCanal="75" ID="340" Nombre="A&amp;E" Genero="Policíacas" Logo="MAY_1/imSer/340.jpg" ServiceNameOriginal="340" ServiceType="1" ip="239.0.0.38" puerto="8208" />
+<Canal NumeroCanal="104" ID="341" Nombre="Sol Música" Genero="Policíacas" Logo="MAY_1/imSer/341.jpg" ServiceNameOriginal="341" ServiceType="1" ip="239.0.0.39" puerto="8208" />
+<Canal NumeroCanal="114" ID="342" Nombre="CNN Int." Genero="Policíacas" Logo="MAY_1/imSer/342.jpg" ServiceNameOriginal="342" ServiceType="1" ip="239.0.0.40" puerto="8208" />
+<Canal NumeroCanal="97" ID="578" Nombre="Boing" Genero="Policíacas" Logo="MAY_1/imSer/578.jpg" ServiceNameOriginal="578" ServiceType="1" ip="239.0.0.66" puerto="8208" />
+<Canal NumeroCanal="94" ID="579" Nombre="Nickelodeon" Genero="Policíacas" Logo="MAY_1/imSer/579.jpg" ServiceNameOriginal="579" ServiceType="1" ip="239.0.0.69" puerto="8208" />
+<Canal NumeroCanal="8" ID="58" Nombre="Telemadrid" Genero="Programas" Logo="MAY_1/imSer/58.jpg" ServiceNameOriginal="58" ServiceType="1" ip="239.0.0.25" puerto="8208" />
+<Canal NumeroCanal="105" ID="581" Nombre="VH1" Genero="Policíacas" Logo="MAY_1/imSer/581.jpg" ServiceNameOriginal="581" ServiceType="1" ip="239.0.0.75" puerto="8208" />
+<Canal NumeroCanal="124" ID="582" Nombre="Intereconomía" Genero="Policíacas" Logo="MAY_1/imSer/582.jpg" ServiceNameOriginal="582" ServiceType="1" ip="239.0.0.63" puerto="8208" />
+<Canal NumeroCanal="9" ID="59" Nombre="La Otra" Genero="Programas" Logo="MAY_1/imSer/59.jpg" ServiceNameOriginal="59" ServiceType="1" ip="239.0.0.26" puerto="8208" />
+<Canal NumeroCanal="0" ID="597" Nombre="Movistar+" Genero="Ocio y cultura" Logo="MAY_1/imSer/597.jpg" ServiceNameOriginal="597" ServiceType="1" ip="239.0.0.77" puerto="8208" />
+<Canal NumeroCanal="77" ID="657" Nombre="Discov.Max" Genero="Policíacas" Logo="MAY_1/imSer/657.jpg" ServiceNameOriginal="657" ServiceType="1" ip="239.0.0.32" puerto="8208" />
+<Canal NumeroCanal="83" ID="663" Nombre="Divinity" Genero="Drama" Logo="MAY_1/imSer/663.jpg" ServiceNameOriginal="663" ServiceType="1" ip="239.0.0.48" puerto="8208" />
+<Canal NumeroCanal="82" ID="697" Nombre="Crimen e Inv." Genero="Policíacas" Logo="MAY_1/imSer/697.jpg" ServiceNameOriginal="697" ServiceType="1" ip="239.0.0.57" puerto="8208" />
+<Canal NumeroCanal="103" ID="741" Nombre="40 TV" Genero="Policíacas" Logo="MAY_1/imSer/741.jpg" ServiceNameOriginal="741" ServiceType="1" ip="239.0.0.12" puerto="8208" />
+<Canal NumeroCanal="112" ID="743" Nombre="Canal 24 H." Genero="Policíacas" Logo="MAY_1/imSer/743.jpg" ServiceNameOriginal="743" ServiceType="1" ip="239.0.0.78" puerto="8208" />
+<Canal NumeroCanal="98" ID="745" Nombre="Clan TVE" Genero="Policíacas" Logo="MAY_1/imSer/745.jpg" ServiceNameOriginal="745" ServiceType="1" ip="239.0.0.80" puerto="8208" />
+<Canal NumeroCanal="25" ID="747" Nombre="FDF" Genero="Policíacas" Logo="MAY_1/imSer/747.jpg" ServiceNameOriginal="747" ServiceType="1" ip="239.0.0.84" puerto="8208" />
+<Canal NumeroCanal="121" ID="752" Nombre="CCTV E" Genero="Ocio y cultura" Logo="MAY_1/imSer/752.jpg" ServiceNameOriginal="752" ServiceType="1" ip="239.0.0.65" puerto="8208" />
+<Canal NumeroCanal="90" ID="778" Nombre="Baby TV" Genero="Policíacas" Logo="MAY_1/imSer/778.jpg" ServiceNameOriginal="778" ServiceType="1" ip="239.0.0.113" puerto="8208" />
+<Canal NumeroCanal="125" ID="844" Nombre="13 TV" Genero="Policíacas" Logo="MAY_1/imSer/844.jpg" ServiceNameOriginal="844" ServiceType="1" ip="239.0.0.91" puerto="8208" />
+<Canal NumeroCanal="115" ID="845" Nombre="Fox News" Genero="Policíacas" Logo="MAY_1/imSer/845.jpg" ServiceNameOriginal="845" ServiceType="1" ip="239.0.7.65" puerto="8208" />
+<Canal NumeroCanal="117" ID="846" Nombre="Al Jazeera" Genero="Policíacas" Logo="MAY_1/imSer/846.jpg" ServiceNameOriginal="846" ServiceType="1" ip="239.0.7.66" puerto="8208" />
+<Canal NumeroCanal="118" ID="847" Nombre="France 24" Genero="Policíacas" Logo="MAY_1/imSer/847.jpg" ServiceNameOriginal="847" ServiceType="1" ip="239.0.7.67" puerto="8208" />
+<Canal NumeroCanal="119" ID="848" Nombre="Russia T." Genero="Policíacas" Logo="MAY_1/imSer/848.jpg" ServiceNameOriginal="848" ServiceType="1" ip="239.0.7.68" puerto="8208" />
+<Canal NumeroCanal="120" ID="849" Nombre="CNBC Eur." Genero="Policíacas" Logo="MAY_1/imSer/849.jpg" ServiceNameOriginal="849" ServiceType="1" ip="239.0.7.69" puerto="8208" />
+<Canal NumeroCanal="81" ID="850" Nombre="Decasa" Genero="Policíacas" Logo="MAY_1/imSer/850.jpg" ServiceNameOriginal="850" ServiceType="1" ip="239.0.0.71" puerto="8208" />
+<Canal NumeroCanal="86" ID="884" Nombre="Energy" Genero="Toros" Logo="MAY_1/imSer/884.jpg" ServiceNameOriginal="884" ServiceType="1" ip="239.0.0.59" puerto="8208" />
+<Canal NumeroCanal="200" ID="886" Nombre="LTC" Genero="Policíacas" Logo="MAY_1/imSer/886.jpg" ServiceNameOriginal="886" ServiceType="1" ip="239.0.0.98" puerto="8208" />
+<Canal NumeroCanal="26" ID="934" Nombre="Neox" Genero="Programas" Logo="MAY_1/imSer/934.jpg" ServiceNameOriginal="934" ServiceType="1" ip="239.0.0.107" puerto="8208" />
+<Canal NumeroCanal="84" ID="935" Nombre="Nova" Genero="Programas" Logo="MAY_1/imSer/935.jpg" ServiceNameOriginal="935" ServiceType="1" ip="239.0.0.106" puerto="8208" />
+<Canal NumeroCanal="66" ID="936" Nombre="Iberalia" Genero="Programas" Logo="MAY_1/imSer/936.jpg" ServiceNameOriginal="936" ServiceType="1" ip="239.0.5.6" puerto="8208" />
+</Canales>
